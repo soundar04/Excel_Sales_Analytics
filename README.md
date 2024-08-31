@@ -1,17 +1,17 @@
 Excel_Sales_Analytics
 ## Excel-Sales_Analytics Report: 
 
-- **LinkedIn :** (https://www.linkedin.com/posts/soundar-n-4488p_atliq-sales-and-finance-analytics-project-activity-7235521440492494848-0fKo?utm_source=share&utm_medium=member_desktop)
+- **LinkedIn :**[Link](https://www.linkedin.com/posts/soundar-n-4488p_atliq-sales-and-finance-analytics-project-activity-7235521440492494848-0fKo?utm_source=share&utm_medium=member_desktop)
 
 - **Project objective:** 
 
-    **1.** Create a _(https://github.com/soundar04/Excel_Sales_Analytics/blob/main/1_Customer_performance_report.pdf_) 
+    **1.** Create a _https://github.com/soundar04/Excel_Sales_Analytics/blob/main/1_Customer_performance_report.pdf_ 
 
-    **2.** Conduct a comprehensive comparison between _[market performance and sales targets](https://github.com/soundar04/Excel_Sales_Analytics/blob/main/2_MarketPerformance_report.pdf_)
+    **2.** Conduct a comprehensive comparison between _[market performance and sales targets]https://github.com/soundar04/Excel_Sales_Analytics/blob/main/2_MarketPerformance_report.pdf_
 
-    **3.** Create a _[Top 10 Product report](https://github.com/soundar04/Excel_Sales_Analytics/blob/main/3_Top10_product%20(1).pdf_)
+    **3.** Create a [Top 10 Product report](https://github.com/soundar04/Excel_Sales_Analytics/blob/main/3_Top10_product%20(1).pdf)
 
-    **4.** Create a _[Division of Product report]https://github.com/soundar04/Excel_Sales_Analytics/blob/main/4_Division_report.pdf_
+    **4.** Create a [Division of Product report](https://github.com/soundar04/Excel_Sales_Analytics/blob/main/4_Division_report.pdf)
 
     **5.** Create a _[New Product 2021 report]https://github.com/soundar04/Excel_Sales_Analytics/blob/main/5_New_product_2021_report.pdf_
 
