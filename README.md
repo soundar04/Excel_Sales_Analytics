@@ -5,17 +5,17 @@ Excel_Sales_Analytics
 
 - **Project objective:** 
 
-    **1.** Create a _(https://github.com/soundar04/Excel_Sales_Analytics/blob/main/1_Customer_performance_report.pdf_) 
+    **1.** Create a (https://github.com/soundar04/Excel_Sales_Analytics/blob/main/1_Customer_performance_report.pdf_) 
 
     **2.** Conduct a comprehensive comparison between _[market performance and sales targets](https://github.com/soundar04/Excel_Sales_Analytics/blob/main/2_MarketPerformance_report.pdf_)
 
     **3.** Create a _[Top 10 Product report](https://github.com/soundar04/Excel_Sales_Analytics/blob/main/3_Top10_product%20(1).pdf_Link)
 
-    **4.** Create a _[Division of Product report]https://github.com/soundar04/Excel_Sales_Analytics/blob/main/4_Division_report.pdf_
+    **4.** Create a _[Division of Product report](https://github.com/soundar04/Excel_Sales_Analytics/blob/main/4_Division_report.pdf_)
 
-    **5.** Create a _[New Product 2021 report]https://github.com/soundar04/Excel_Sales_Analytics/blob/main/5_New_product_2021_report.pdf_
+    **5.** Create a _[New Product 2021 report](https://github.com/soundar04/Excel_Sales_Analytics/blob/main/5_New_product_2021_report.pdf_)
 
-    **6.** Create a _[Top_5_countries_net_sale2021 report]https://github.com/soundar04/Excel_Sales_Analytics/blob/main/6_Top_5_countries_net_sale2021.pdf_ 
+    **6.** Create a _[Top_5_countries_net_sale2021 report](https://github.com/soundar04/Excel_Sales_Analytics/blob/main/6_Top_5_countries_net_sale2021.pdf_) 
   
 
 - **Purpose of sales analytics:** Empower businesses to monitor and evaluate their sales activities and performance.
@@ -31,10 +31,10 @@ Excel_Sales_Analytics
 
 - **Project objective:** 
 
-    **1.** Create Profit and Loss (P&L) reports by _[Fiscal Year]https://github.com/soundar04/Excel_Sales_Analytics/blob/main/7_p%26l_year.pdf_ & _[Months]https://github.com/soundar04/Excel_Sales_Analytics/blob/main/8_p%26l_quaeter_month.pdf)_ 
+    **1.** Create Profit and Loss (P&L) reports by _[Fiscal Year](https://github.com/soundar04/Excel_Sales_Analytics/blob/main/7_p%26l_year.pdf_) & _[Months](https://github.com/soundar04/Excel_Sales_Analytics/blob/main/8_p%26l_quaeter_month.pdf)_ 
 
-   **2.** Create Profit and Loss (P&L) reports by _[Markets]https://github.com/soundar04/Excel_Sales_Analytics/blob/main/9_p%26l_market.pdf
-   **3.** Create Profit and Loss (P&L) GM(Gross Margin)% of Quarters reports by _[GM%]https://github.com/soundar04/Excel_Sales_Analytics/blob/main/10_GM%25_by_quarted.pdf_
+   **2.** Create Profit and Loss (P&L) reports by _[Markets](https://github.com/soundar04/Excel_Sales_Analytics/blob/main/9_p%26l_market.pdf)
+   **3.** Create Profit and Loss (P&L) GM(Gross Margin)% of Quarters reports by _[GM%](https://github.com/soundar04/Excel_Sales_Analytics/blob/main/10_GM%25_by_quarted.pdf_)
   
 
 - **Purpose of sales analytics:** Evaluation of financial performance, support decision-making, and facilitate communication with stakeholders.
