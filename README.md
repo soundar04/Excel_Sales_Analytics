@@ -9,7 +9,7 @@ Excel_Sales_Analytics
 
     **2.** Conduct a comprehensive comparison between _[market performance and sales targets](https://github.com/soundar04/Excel_Sales_Analytics/blob/main/2_MarketPerformance_report.pdf_)
 
-    **3.** Create a _[Top 10 Product report](https://github.com/soundar04/Excel_Sales_Analytics/blob/main/3_Top10_product%20(1).pdf_)
+    **3.** Create a _[Top 10 Product report](https://github.com/soundar04/Excel_Sales_Analytics/blob/main/3_Top10_product%20(1).pdf_Link)
 
     **4.** Create a _[Division of Product report]https://github.com/soundar04/Excel_Sales_Analytics/blob/main/4_Division_report.pdf_
 
